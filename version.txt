@@ -1,0 +1,27 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(2, 1, 0, 0),
+    prodvers=(2, 1, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo([
+      StringTable('040904B0', [
+        StringStruct('CompanyName', 'Chia_i_Shen Studio'),
+        StringStruct('FileDescription', 'RecordType - Voice Note Recorder'),
+        StringStruct('FileVersion', '2.1.0'),
+        StringStruct('InternalName', 'RecordType'),
+        StringStruct('OriginalFilename', 'RecordType.exe'),
+        StringStruct('ProductName', 'RecordType'),
+        StringStruct('ProductVersion', '2.1.0'),
+        StringStruct('LegalCopyright', '© 2025 Chia_i_Shen Studio. All rights reserved.'),
+      ])
+    ]),
+    VarFileInfo([VarStruct('Translation', [1033, 1200])])
+  ]
+)
